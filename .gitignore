@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# Never commit class material
+*.mp4
+*.mov
+*.avi
+*.vtt
+data/
+recordings/
+transcripts/
+eval_results/
+*.zip
